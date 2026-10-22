@@ -1,0 +1,35 @@
+1. Create a basic webpage
+
+Add the HTML document structure, a page title, one main heading, and two paragraphs.
+
+2. Style headings and paragraphs
+
+Make the heading blue, center it, and set paragraph text to 18px.
+
+3. Create a personal profile
+
+Add your name, a short bio, and a profile image with suitable alt text.
+
+4. Create a navigation menu
+
+Add three links: Home, About, and Contact. Place each link on the same line.
+
+5. Build a student card
+
+Use a div containing a name, course, and button. Add a background color, padding, border, and rounded corners.
+
+6. Practice the CSS box model
+
+Create a box with width 300px, padding 20px, a 3px solid border, and margin 30px.
+
+7. Create a list
+
+Show at least five favorite hobbies using an unordered list. Change its text color using CSS.
+
+8. Build a contact form
+
+Add fields for name, email, and password, plus a submit button. Use labels for the fields.
+
+9. Practice IDs in CSS
+
+Give a heading the ID page-title and a paragraph the ID intro. Style them separately using # selectors.

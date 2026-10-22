@@ -1,0 +1,84 @@
+*{
+    margin: auto;
+}
+
+h1,h2,h3,h4{
+    text-align: center;
+    background-color: blue;
+}
+
+P{
+    font-size: 18px;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    padding: 20px;
+    border-radius: 12px;
+    border: 2p solid black;
+    background-color: aqua;
+    width: 250px;
+}
+
+.card h2{
+    margin: 0 0 10px;
+}
+
+.card p{
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.card button{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: black;
+    color: antiquewhite;
+}
+
+#box1{
+    width: 300px;
+    padding: 20px;
+    background-color: blue;
+    margin: 30px;
+    border: 3px solid black;
+}
+
+ol{
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul h2{
+    width: 300px;
+}
+
+#page-title{
+    font-weight: 200;
+    font-style: italic;
+}
+
+.feild{
+    text-align: center;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+}
+
+#intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+}
